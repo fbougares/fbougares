@@ -2,8 +2,8 @@
 
 ## Hi there 👋
 
-[![Linkedin](https://img.shields.io/badge/-rami_kammoun-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fethi-bougares/)
-[![Gmail](https://img.shields.io/badge/-rami_kammoun-c14438?style=flat&logo=mail&logoColor=white)](mailto:fethi.bougares@elyadata.com)
+[![Linkedin](https://img.shields.io/badge/-fethi_bougares-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fethi-bougares/)
+[![Gmail](https://img.shields.io/badge/-fethi_bougares-c14438?style=flat&logo=mail&logoColor=white)](mailto:fethi.bougares@elyadata.com)
 ![Count](https://visitor-badge.laobi.icu/badge?page_id=fbougares.fbougares) 
 [![Github](https://img.shields.io/github/followers/fbougares?label=Follow&style=social)](https://github.com/fbougares) 
 
