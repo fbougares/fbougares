@@ -14,7 +14,7 @@ I strongly believe in knowledge sharing through interaction and communication am
 
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Share+your+knowledge.+It’s+a+way+to+achieve+immortality.+Dalai+Lama&center=false&width=900&height=60">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Share+your+knowledge.+It’s+a+way+to+achieve+immortality.+Dalai+Lama.&center=false&width=900&height=60">
 </a>
 
 - 🔭 I’m currently working on a variety of projects related to low-ressource languages and speech transcription for diarization explainability. 
